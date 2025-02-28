@@ -27,11 +27,6 @@
 
 ---
 
-## 🏅 **My TryHackMe Profile**  
-![TryHackMe Badge](https://tryhackme.com/badge/1897953)
-
----
-
 ## 🎯 **Currently Learning**  
 - 🛠 **Penetration Testing & Red Teaming**  
 - 🖥 **Web Security & Exploit Development**  
@@ -41,7 +36,7 @@
 
 ## 🏅 **My TryHackMe Profile**  
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1897953" style="border:none; width: 100%; height: 200px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"></iframe>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1897953" style='border:none;'></iframe>
 </div>
 
 ---
