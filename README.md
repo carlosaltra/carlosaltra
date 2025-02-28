@@ -32,6 +32,15 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git,raspberrypi" width="400px">
 </div>
 
+
+
+## 🎯 **Currently Learning**  
+- 🛠 **Penetration Testing & Red Teaming**  
+- 🖥 **Web Security & Exploit Development**  
+- 🕵️ **Reverse Engineering & Malware Analysis**  
+
+---
+
 ---
 
 ## 📊 **GitHub Stats**  
@@ -43,12 +52,6 @@
 
 ---
 
-## 🎯 **Currently Learning**  
-- 🛠 **Penetration Testing & Red Teaming**  
-- 🖥 **Web Security & Exploit Development**  
-- 🕵️ **Reverse Engineering & Malware Analysis**  
-
----
 
 ## 📬 **Let's Connect!**  
 
