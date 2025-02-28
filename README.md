@@ -41,6 +41,13 @@
 
 ---
 
+## 🏅 **My TryHackMe Profile**  
+<div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1897953" style="border:none; width: 100%; height: 200px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"></iframe>
+</div>
+
+---
+
 ## 📊 **GitHub Stats**  
 
 <p align="center">
