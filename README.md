@@ -31,6 +31,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git,raspberrypi" width="600px">
 </div>
+
 ---
 
 ## 🎯 **Currently Learning**  
