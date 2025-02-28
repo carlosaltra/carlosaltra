@@ -22,7 +22,8 @@
 - 🕵️‍♂️ Currently exploring **CTFs, Web Security, and Network Pentesting**.  
 - 📖 Learning **Kali Linux, Metasploit, Burp Suite, and more!**  
 - 🎯 Always improving my skills in **Python, Bash, and scripting for automation**.  
-- 🤝 Open to collaborations on security research projects.  
+- 🤝 Open to collaborations on security research projects.
+- 👨‍💻 You can check out my articles on Medium: [My Medium Profile](https://medium.com/@carlosaltra)
 - 📌 Find me on **[TryHackMe](https://tryhackme.com/p/carlosaltra)** and **[LinkedIn](https://linkedin.com/in/ian-nicolas-lopez-sanchez-793137340)**.  
 
 ---
