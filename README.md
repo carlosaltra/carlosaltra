@@ -3,7 +3,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm [Tu Nombre]</h1>
+<h1 align="center">Hi there! 👋 I'm Ian Lopez</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;Specializing+in+Offensive+Security;Passionate+about+Challenges">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 **About Me**
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> **About Me**
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
