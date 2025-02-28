@@ -27,10 +27,8 @@
 
 ---
 
-## 🚀 **Tech & Tools I Use**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git,raspberrypi" width="600px">
-</div>
+## 🏅 **My TryHackMe Profile**  
+![TryHackMe Badge](https://tryhackme.com/badge/1897953)
 
 ---
 
