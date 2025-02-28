@@ -23,7 +23,7 @@
 - 📖 Learning **Kali Linux, Metasploit, Burp Suite, and more!**  
 - 🎯 Always improving my skills in **Python, Bash, and scripting for automation**.  
 - 🤝 Open to collaborations on security research projects.  
-- 📌 Find me on **[TryHackMe](https://tryhackme.com/p/TU_USUARIO)** and **[LinkedIn](https://linkedin.com/in/TU_PERFIL)**.  
+- 📌 Find me on **[TryHackMe](https://tryhackme.com/p/carlosaltra)** and **[LinkedIn](linkedin.com/in/ian-nicolas-lopez-sanchez-793137340)**.  
 
 ---
 
