@@ -29,7 +29,7 @@
 
 ## 🚀 **Tech & Tools I Use**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git,raspberrypi,ssh,nmap,burpsuite" width="600px">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,github,git,raspberrypi" width="600px">
 </div>
 ---
 
