@@ -34,13 +34,6 @@
 
 ---
 
-## 🏅 **My TryHackMe Profile**  
-<div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1897953" style='border:none;'>
-</div>
-
----
-
 ## 📊 **GitHub Stats**  
 
 <p align="center">
